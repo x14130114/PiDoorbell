@@ -20,8 +20,8 @@ class Firebase:
     }
 
     # login credentials as private access vars
-    _login = "bernmccluskey@gmail.com"
-    _password = "brianmccluskey"
+    _login = "EMAIL"
+    _password = "PASSWORD"
 
     # update data method
     def update_data(self, data):
